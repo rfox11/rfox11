@@ -1,9 +1,11 @@
-### Hi! I'm a ML Engineer and Data Scientist with NLP and Business Analytics experience!
+## Hey 👋
 
-My github is empty and a work in progress at the moment, but I have contributed to my company's private repos a lot over the past year+
-and I'm planning to add some personal projects soon!
+Data Scientist during the day, tech nerd in my free time. I use this space to brush up on stuff and work on projects that catch my interest.
 
-- 🔭 I’m currently refreshing my feature engineering and data structure knowledge!
-- 📫 How to reach me: https://www.linkedin.com/in/riley-fox-/
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I play guitar in my free time
+## Quick bits
+- 💻 Working in healthcare data science and analytics
+- 🧪 Using this GitHub as my digital lab
+- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/riley-fox-/) if you want to connect
+- 🦊 He/him
+
+Feel free to poke around my repos although there isn't much to see. Down to collaborate on interesting projects!
